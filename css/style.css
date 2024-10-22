@@ -429,7 +429,7 @@ footer p {
 }
 
 .form-group input, .form-group textarea {
-    width: 100%;
+    width: 90%;
     padding: 10px;
     background-color: #121212;
     border: 1px solid #00d1b2;
